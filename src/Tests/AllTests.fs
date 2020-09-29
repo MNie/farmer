@@ -31,6 +31,7 @@ let allTests =
                 EventGrid.tests
                 WebApp.tests
                 VirtualNetworkGateway.tests
+                VirtualNetwork.tests
             ]
             testList "Control" [
                 Template.tests
